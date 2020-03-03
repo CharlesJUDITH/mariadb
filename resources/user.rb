@@ -155,6 +155,7 @@ action_class do
       :reload,
       :shutdown,
       :process,
+      :proxy,
       :file,
       :show_db,
       :super,
